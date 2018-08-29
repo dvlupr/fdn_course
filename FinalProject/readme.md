@@ -9,10 +9,11 @@ There are three files:
 
 This process requires three commands:
 
-Python create_mastercard_list.py
-then
-python create_darkweb_list.py
-finally
-python darkweb_process.py
+```
+python create_mastercard_list.py
 
+python create_darkweb_list.py
+
+python darkweb_process.py
+```
 If done properly, this process will run on it's own as an example of what would be needed to 
