@@ -16,4 +16,4 @@ python create_darkweb_list.py
 
 python darkweb_process.py
 ```
-If done properly, this process will run on it's own as an example of what would be needed to 
+If done properly, this process will run on it's own as an example of what would be needed to vet a list of provided darkweb mastercard numbers. 
